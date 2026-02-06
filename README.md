@@ -18,7 +18,7 @@ API REST développée avec **Django** et **Django REST Framework**.
 Cloner le projet :
 
 ```powershell
-git clone ootis-test
+git clone https://github.com/jaykkoo/ootis-test.git
 cd ootis_test
 ```
 
