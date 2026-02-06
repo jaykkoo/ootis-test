@@ -19,7 +19,7 @@ Cloner le projet :
 
 ```powershell
 git clone https://github.com/jaykkoo/ootis-test.git
-cd ootis_test
+cd ootis-test
 ```
 
 ---
