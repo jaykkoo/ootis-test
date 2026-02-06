@@ -77,7 +77,6 @@ http://127.0.0.1:8000/
 ---
 
 ## Remarques
-
-- Projet API REST uniquement (pas de templates HTML)
 - Base de données SQLite utilisée pour le développement
-- Les environnements virtuels et la base locale ne sont pas versionnés
+- Connexion sécurisée avec JWT via Authorization: Bearer dans Postman
+  
